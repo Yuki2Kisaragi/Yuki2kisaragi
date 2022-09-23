@@ -2,8 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuki2Kisaragi&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki2Kisaragi
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki2Kisaragi&hide=javascript,html,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
